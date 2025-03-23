@@ -26,7 +26,7 @@ git clone https://github.com/joaovitor8338/to-do-list-vuetify
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd vue-todo-app
+cd to-do-list-vuetify
 ```
 
 3. Instale as dependências:
