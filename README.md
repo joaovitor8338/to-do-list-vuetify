@@ -71,3 +71,7 @@ O aplicativo usa o composable `useTasks` para gerenciamento de estado, que forne
 - `addTask`: Função para adicionar novas tarefas
 - `toggleTask`: Função para alternar conclusão da tarefa
 - `removeTask`: Função para deletar tarefas
+
+## Screenshot 📷
+
+![To-do List](./public/screenshot.png)
