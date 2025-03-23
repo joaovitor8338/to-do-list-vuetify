@@ -10,5 +10,8 @@ declare module 'vue' {
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    TaskInput: typeof import('./src/components/TaskInput.vue')['default']
+    TaskList: typeof import('./src/components/TaskList.vue')['default']
+    TodoApp: typeof import('./src/components/TodoApp.vue')['default']
   }
 }
